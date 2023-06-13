@@ -13,7 +13,7 @@
 # goormIDE
 Welcome to goormIDE!
 
-goormIDE is a powerful cloud IDE service to maximize productivity for developers and teams.  
+goormIDE is a powerful cloud IDE service to maximi   ze productivity for developers and teams.  
 **DEVELOP WITH EXCELLENCE**  
 
 `Happy coding! The goormIDE team`
